@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T07:56:15.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.8" etag="re55gfXvNesqqTvYPrI-" type="github"><diagram id="kG8OtbzE5w80a8_U6pyA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-05T08:04:11.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qRGER3C8Ew7JoiYfyJbg" version="14.1.8" type="github">
+  <diagram id="kG8OtbzE5w80a8_U6pyA" name="Page-1">
+    <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qvmVJbYLAl963TkjMKoH-20" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=16;fontStyle=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-12" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=16;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="460" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-1" value="访问框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;fontSize=16;fontStyle=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-2" value="libsimplekv.so" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;fontSize=16;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-5" value="操作模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;fontSize=16;fontStyle=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="390" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-6" value="索引模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;fontSize=16;fontStyle=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-7" value="存储模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;fontSize=16;fontStyle=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-8" value="分配器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;fontSize=16;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="430" y="580" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-9" value="持久化" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;fontSize=16;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="550" y="580" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-10" value="动态库访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;sketch=1;fontSize=16;fontStyle=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-14" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=16;fontStyle=1;shadow=1;dashed=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-3" value="Socket Server" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;fontSize=16;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-4" value="请求解析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;fontSize=16;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-11" value="网络访问框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;sketch=1;fontSize=16;fontStyle=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="475" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qvmVJbYLAl963TkjMKoH-21" value="SimpleKV的基本内部架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontColor=#000000;sketch=0;glass=0;rounded=0;shadow=0;resizeHeight=0;comic=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
